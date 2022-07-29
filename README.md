@@ -14,9 +14,9 @@ C-fuzzy clustering DBSCAN clustering
 
 Self Organized Map (SOM) clustering
 
-There are few steps of data pre-processing applied before implemneting clutering. Those are:
+There are few steps of data QC and pre-processing applied before implemneting clutering. Those are:
 
-Data QC Remove nulls 
+Remove nulls 
 
 Remove outliers 
 
