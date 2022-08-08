@@ -13,7 +13,6 @@ from kneed import KneeLocator
 
 #import the dataset
 
-#df = pd.read_csv (r'D:\PHD\Thesis\Python_Code\Thesis_Code\Match_Data_eclid3.CSV')
 df = pd.read_csv (r'.\DATA.CSV')
 
 
